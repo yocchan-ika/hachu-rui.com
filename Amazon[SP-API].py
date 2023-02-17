@@ -6,4 +6,4 @@ credentials=dict(
             aws_secret_key    = 'AWS シークレットキー',  #（AWS IAMユーザーロール登録時に取得可能）
             role_arn          = 'AWS IAM ARN',        #（AWS IAMユーザーロール登録時に取得可能）
             )
-
+test
